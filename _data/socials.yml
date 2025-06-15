@@ -29,7 +29,7 @@ orcid_id: 0000-0002-1234-5678 # your ORCID ID (请替换为您的真实ORCID ID)
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 2OKn9p4AAAAJ # your Google Scholar ID (请添加您的Google Scholar ID)
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
