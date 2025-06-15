@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher in Digital Health, University of Oxford
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Institute of Biomedical Engineering</p>
+    <p>University of Oxford</p>
+    <p>Oxford, United Kingdom</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr Mayue Shi is a biomedical electronics scientist. Currently, he is working as Postdoctoral Researcher in Digital Health at the Institute of Biomedical Engineering, University of Oxford. He is also an Honorary Researcher at John Radcliffe Hospital, part of NHS Oxford University Hospitals. Before this, he was a Research Associate at Imperial College London, working on soft robots and wearable biomedical devices for healthcare. His current research interests encompass the fields of digital health and advanced biomedical electronics. He is committed to enhancing the accessibility and effectiveness of healthcare practices by bridging the gap between engineering and medicine.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
