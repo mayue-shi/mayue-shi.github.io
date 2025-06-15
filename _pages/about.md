@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Dr Mayue Shi is a biomedical electronics scientist. Currently, he is working as Postdoctoral Researcher in Digital Health at the Institute of Biomedical Engineering, University of Oxford. He is also an Honorary Researcher at John Radcliffe Hospital, part of NHS Oxford University Hospitals. Before this, he was a Research Associate at Imperial College London, working on soft robots and wearable biomedical devices for healthcare. His current research interests encompass the fields of digital health and advanced biomedical electronics. He is committed to enhancing the accessibility and effectiveness of healthcare practices by bridging the gap between engineering and medicine.
+Dr Mayue Shi is a `biomedical electronics scientist`. Currently, he is working as Postdoctoral Researcher in Digital Health at the Institute of Biomedical Engineering, University of Oxford. He is also an Honorary Researcher at John Radcliffe Hospital, part of NHS Oxford University Hospitals. Before this, he was a Research Associate at Imperial College London, working on soft robots and wearable biomedical devices for healthcare. His current research interests encompass the fields of digital health and advanced biomedical electronics. He is committed to enhancing the accessibility and effectiveness of healthcare practices by bridging the gap between engineering and medicine.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
