@@ -9,38 +9,38 @@ nav_order: 3
 
 `Undergraduate Teaching`
 
-Department of Engineering Science, University of Oxford  
-2024 Instructor  
-B18: Biomedical Modelling and Monitoring, Wearable Technology Laboratory  
+Department of Engineering Science, University of Oxford<br>
+2024 Instructor<br>
+B18: Biomedical Modelling and Monitoring, Wearable Technology Laboratory<br>
 
-Department of Electrical and Electronic Engineering, Imperial College London  
-2018 – 2021 Teaching Assistant  
-1st & 2nd Year Electronic Lab;  
-Analysis/Design of Circuits;  
-Digital Electronics and Computer Architecture.  
+Department of Electrical and Electronic Engineering, Imperial College London<br>
+2018 – 2021 Teaching Assistant<br>
+1st & 2nd Year Electronic Lab;<br>
+Analysis/Design of Circuits;<br>
+Digital Electronics and Computer Architecture.<br>
 
 `Postgraduate Supervision`
 
-Zhengyang Shen  
-MSc in Control and Optimisation  
-Department of Electrical and Electronic Engineering, Imperial College London, 2023  
-Project: Machine Learning and Wearable Devices for Eating Behaviour Monitoring.  
-Current Position: PhD Student, Imperial College London.  
+Zhengyang Shen<br>
+MSc in Control and Optimisation<br>
+Department of Electrical and Electronic Engineering, Imperial College London, 2023<br>
+Project: Machine Learning and Wearable Devices for Eating Behaviour Monitoring.<br>
+Current Position: PhD Student, Imperial College London.<br>
 
-Bo Gao  
-MSc in Control and Optimisation  
-Department of Electrical and Electronic Engineering, Imperial College London, 2023  
-Project: Machine Learning and Wearable Devices for Eating Behaviour Monitoring.  
-Current position: Wearable Algorithm Engineer,  Xiaomi Corp.  
+Bo Gao<br>
+MSc in Control and Optimisation<br>
+Department of Electrical and Electronic Engineering, Imperial College London, 2023<br>
+Project: Machine Learning and Wearable Devices for Eating Behaviour Monitoring.<br>
+Current position: Wearable Algorithm Engineer, Xiaomi Corp.<br>
 
-Jiaying (Annie) Zhou  
-MRes Clinical Research Programme  
-Department of Metabolism, Digestion and Reproduction, Imperial College London, 2023  
-Project: Wearable Sensors for Monitoring Dietary Behaviours.  
-Current Position: PhD Student, University of Macau.  
+Jiaying (Annie) Zhou<br>
+MRes Clinical Research Programme<br>
+Department of Metabolism, Digestion and Reproduction, Imperial College London, 2023<br>
+Project: Wearable Sensors for Monitoring Dietary Behaviours.<br>
+Current Position: PhD Student, University of Macau.<br>
 
-Xianzao Li  
-MSc in Control and Optimisation  
-Department of Electrical and Electronic Engineering, Imperial College London, 2021  
-Project: Underwater Wireless Power Transfer.  
+Xianzao Li<br>
+MSc in Control and Optimisation<br>
+Department of Electrical and Electronic Engineering, Imperial College London, 2021<br>
+Project: Underwater Wireless Power Transfer.<br>
 Current Position: PhD Student, Imperial College London.
