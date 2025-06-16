@@ -1,33 +1,33 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mayue Shi",
+    "label": "Biomedical Electronics Scientist",
     "image": "",
     "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    // "phone": "(912) 123-4567",
+    "url": "https://ibme.ox.ac.uk/person/mayue-shi/",
+    "summary": "A Biomedical Electronics Scientist",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Institute of Biomedical Engineering, Department of Engineering Science, Old Road Campus Research Building, University of Oxford, Headington",
+      "postalCode": "OX3 7DQ",
+      "city": "Oxford",
+      "countryCode": "UK",
+      "region": "Oxfordshire"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Mayue Shi",
+        "url": "https://www.linkedin.com/in/mayue-shi-6a972b86/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
+      "name": "Institute of Biomedical Engineering, University of Oxford",
+      "position": "Postdoctoral Researcher in Digital Health",
+      "url": "https://ibme.ox.ac.uk/person/mayue-shi/",
+      "startDate": "2023-10-02",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
