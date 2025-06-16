@@ -198,11 +198,18 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.9rem;
 
     p {
       display: inline-block;
       margin: 0;
+    }
+
+    strong {
+      font-weight: 700;
+      // color: var(--global-theme-color);
+      // font-size: 1.1em;
     }
   }
 }
