@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Associate Fellow of the Higher Education Academy (AFHEA), 2024.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
