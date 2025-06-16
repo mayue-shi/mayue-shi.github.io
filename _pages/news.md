@@ -3,7 +3,7 @@ layout: page
 title: news
 
 nav: true
-nav_order: 8
+nav_order: 7
 
 permalink: /news/
 ---
