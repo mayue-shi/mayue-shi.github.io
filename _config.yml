@@ -11,9 +11,8 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Dr Mayue Shi is a biomedical electronics scientist. Currently, he is working as Postdoctoral Researcher in Digital Health at the Institute of Biomedical Engineering, University of Oxford. He is also an Honorary Researcher at John Radcliffe Hospital, part of NHS Oxford University Hospitals. Before this, he was a Research Associate at Imperial College London, working on soft robots and wearable biomedical devices for healthcare. His current research interests encompass the fields of digital health and advanced biomedical electronics. He is committed to enhancing the accessibility and effectiveness of healthcare practices by bridging the gap between engineering and medicine.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Powered by Jekyll and GitHub Pages.
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
