@@ -11,6 +11,8 @@ Have had a really great experience to visit The Royal Society Summer Science Exh
 ---
 ![Nice day](/assets/img/news_img/1751760870614.jpeg)
 
+<img src="/assets/img/news_img/1751760870614.jpeg" alt="pic" width="300" height="200">
+
 
 #### Hipster list
 
