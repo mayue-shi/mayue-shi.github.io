@@ -9,18 +9,8 @@ related_posts: false
 Have had a really great experience to visit The Royal Society Summer Science Exhibition 2025.
 
 ---
+![Nice day](/assets/img/news_img/1751760870614.jpeg)
 
-
-<div class="row">
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760840850.jpeg" alt="Laboratory" class="img-fluid rounded">
-        <div class="caption">Laboratory Setup</div>
-    </div>
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760870614.jpeg" alt="Wearable Device" class="img-fluid rounded">
-        <div class="caption">Wearable Biomedical Device</div>
-    </div>
-</div>
 
 #### Hipster list
 
