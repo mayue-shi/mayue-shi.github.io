@@ -426,18 +426,30 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-pleased-to-present-our-recent-research-on-multi-modal-robotic-skin-in-iros2022-conference",
+          title: 'Pleased to present our recent research on multi-modal robotic skin in IROS2022 conference...',
           description: "",
-          section: "News",},{id: "news-happy-to-visit-the-royal-society-summer-science-exhibition-2025",
+          section: "News",},{id: "news-dr-mayue-shi-attended-pku-annual-alumni-conference-in-the-uk",
+          title: 'Dr Mayue Shi Attended PKU Annual Alumni Conference in the UK',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20240215/";
+            },},{id: "news-dr-mayue-shi-was-selected-as-the-ideas-2-impact-i2i-fellow-at-saïd-business-school-university-of-oxford",
+          title: 'Dr Mayue Shi was selected as the Ideas 2 Impact (I2I) Fellow at...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20240915/";
+            },},{id: "news-dr-mayue-shi-was-selected-as-research-member-of-common-room-at-kelloge-college-university-of-oxford",
+          title: 'Dr Mayue Shi was selected as Research Member of Common Room at Kelloge...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20241001/";
+            },},{id: "news-happy-to-visit-the-royal-society-summer-science-exhibition-2025",
           title: 'Happy to visit the Royal Society Summer Science Exhibition 2025',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-test-sparkles-smile",
-          title: 'Test! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+              window.location.href = "/news/announcement_20250705/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
