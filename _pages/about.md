@@ -25,7 +25,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 Dr Mayue Shi is a `biomedical electronics scientist`. Currently, he is working as Postdoctoral Researcher in Digital Health at the Institute of Biomedical Engineering, University of Oxford. He is also an Honorary Researcher at John Radcliffe Hospital, part of NHS Oxford University Hospitals. Before this, he was a Research Associate at Imperial College London, working on wearable biomedical sensing and soft robots for healthcare. His current research interests encompass the fields of `digital health and wearable biomedical electronics`. He is committed to enhancing the accessibility and effectiveness of healthcare practices by bridging the gap between engineering and medicine.

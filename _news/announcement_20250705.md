@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy to visit the Royal Society Summer Science Exhibition 2025
-date: 2025-05-07 16:11:00-0400
+date: 2025-07-05 16:11:00-0400
 inline: false
 related_posts: false
 ---
