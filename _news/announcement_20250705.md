@@ -13,38 +13,39 @@ related_posts: false
 <!-- <img src="/assets/img/news_img/1751760870614.jpeg" alt="pic" width="300" height="200"> -->
 
 <div class="row">
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760870614.jpeg" class="img-fluid">
-    </div>
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760884042.jpeg" class="img-fluid">
-    </div>
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760860453.jpeg" class="img-fluid">
-    </div>
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760840850.jpeg" class="img-fluid">
-    </div>
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760876767.jpeg" class="img-fluid">
-    </div>
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760873819.jpeg" class="img-fluid">
-    </div>
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760888912.jpeg" class="img-fluid">
-    </div>
-    <div class="col-sm-6">
-        <img src="/assets/img/news_img/1751760879440.jpeg" class="img-fluid">
-    </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/news_img/1751760870614.jpeg" class="img-fluid" />
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/news_img/1751760884042.jpeg" class="img-fluid" />
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/news_img/1751760860453.jpeg" class="img-fluid" />
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/news_img/1751760840850.jpeg" class="img-fluid" />
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/news_img/1751760876767.jpeg" class="img-fluid" />
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/news_img/1751760873819.jpeg" class="img-fluid" />
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/news_img/1751760888912.jpeg" class="img-fluid" />
+  </div>
+  <div class="col-sm-6">
+    <img src="/assets/img/news_img/1751760879440.jpeg" class="img-fluid" />
+  </div>
 </div>
 
 <!-- #### Hipster list -->
 
-<!-- <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul> -->
-
+<!--
+<ul>
+  <li>brunch</li>
+  <li>fixie</li>
+  <li>raybans</li>
+  <li>messenger bag</li>
+</ul>
+-->
