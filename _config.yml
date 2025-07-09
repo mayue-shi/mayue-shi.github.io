@@ -85,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: mayue-shi # blog_name will be displayed in your blog page
-blog_description: engineeering for human
+blog_description: engineering excellence for human
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -261,8 +261,8 @@ display_tags: ["intelligent sensing", "Machine Learning", "digital health", "rob
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Mayue]
-  first_name: [Shi]
+  last_name: [Shi]
+  first_name: [Mayue]
 
   style: apa
   locale: en
