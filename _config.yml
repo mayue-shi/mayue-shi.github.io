@@ -85,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: mayue-shi # blog_name will be displayed in your blog page
-blog_description: blog for academics
+blog_description: engineeering for human
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
