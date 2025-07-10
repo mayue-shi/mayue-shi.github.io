@@ -11,7 +11,9 @@ profile:
   more_info: >
     <p><strong>Mayue Shi</strong> PhD AFHEA MIEEE MIET</p>
     <p>Institute of Biomedical Engineering</p>
+    <p>Department of Engineering Science</p>
     <p>University of Oxford</p>
+    <p>Oxford OX3 7DQ, UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,7 +34,4 @@ Dr Mayue Shi is a `biomedical electronics scientist`. Currently, he is working a
 **Contact**  
 Email: mayue.shi(at)eng.ox.ac.uk  
 Web: [https://ibme.ox.ac.uk/person/mayue-shi/](https://ibme.ox.ac.uk/person/mayue-shi/)  
-Institute of Biomedical Engineering  
-Department of Engineering Science  
-University of Oxford  
-Oxford OX3 7DQ, UK
+Linkedin: [https://www.linkedin.com/in/mayue-shi/](https://www.linkedin.com/in/mayue-shi-6a972b86/)
