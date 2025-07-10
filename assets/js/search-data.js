@@ -97,9 +97,9 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20250705/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-food-intake-monitoring",
+          title: 'Food intake monitoring',
+          description: "Sensor Fusion and machine learning for Reliable Food and Energy Intake Assessment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
