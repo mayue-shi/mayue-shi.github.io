@@ -3,7 +3,7 @@
 <div align="center">
 
 **Personal academic website for Dr. Mayue Shi**  
-*Postdoctoral Researcher in Digital Health, University of Oxford*
+_Postdoctoral Researcher in Digital Health, University of Oxford_
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmayue-shi.github.io&style=flat-square)](https://mayue-shi.github.io)
 [![License](https://img.shields.io/github/license/mayue-shi/mayue-shi.github.io?style=flat-square)](LICENSE)
@@ -16,11 +16,11 @@ This is the personal academic website of **Dr. Mayue Shi**, a biomedical electro
 
 ## Key Publications
 
-1. **Shi, M.** et al. (2023). "Microstructure-Enhanced Vision-Based Tactile Sensor." *2023 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)*.
+1. **Shi, M.** et al. (2023). "Microstructure-Enhanced Vision-Based Tactile Sensor." _2023 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)_.
 
-2. **Shi, M.** et al. (2017). "Self-powered wireless smart patch for healthcare monitoring." *Nano Energy*, 32, 479-487.
+2. **Shi, M.** et al. (2017). "Self-powered wireless smart patch for healthcare monitoring." _Nano Energy_, 32, 479-487.
 
-3. **Shi, M.** et al. (2016). "Self-Powered Analogue Smart Skin." *ACS Nano*, 10(4), 4083-4091.
+3. **Shi, M.** et al. (2016). "Self-Powered Analogue Smart Skin." _ACS Nano_, 10(4), 4083-4091.
 
 ## Contact & Affiliations
 
