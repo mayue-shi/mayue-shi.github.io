@@ -34,4 +34,4 @@ Dr Mayue Shi is a `biomedical electronics scientist`. Currently, he is working a
 **Contact**  
 Email: mayue.shi(at)eng.ox.ac.uk  
 Web: [https://ibme.ox.ac.uk/person/mayue-shi/](https://ibme.ox.ac.uk/person/mayue-shi/)  
-Linkedin: [https://www.linkedin.com/in/mayue-shi/](https://www.linkedin.com/in/mayue-shi-6a972b86/)
+Linkedin: [https://www.linkedin.com/in/mayue-shi-6a972b86/](https://www.linkedin.com/in/mayue-shi-6a972b86/)
