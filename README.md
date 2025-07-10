@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmayue-shi.github.io&style=flat-square)](https://mayue-shi.github.io)
-[![License](https://img.shields.io/github/license/mayue-shi/mayue-shi.github.io?style=flat-square)](LICENSE)
-
 **Personal academic website for Dr. Mayue Shi**  
 *Postdoctoral Researcher in Digital Health, University of Oxford*
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmayue-shi.github.io&style=flat-square)](https://mayue-shi.github.io)
+[![License](https://img.shields.io/github/license/mayue-shi/mayue-shi.github.io?style=flat-square)](LICENSE)
 
 </div>
 
