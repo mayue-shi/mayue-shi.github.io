@@ -29,6 +29,8 @@ Institute of Biomedical Engineering
 University of Oxford  
 Oxford, United Kingdom
 
+*[email](mayue.shi@eng.ox.ac.uk)
+
 ## Acknowledgments
 
 - Built with the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme
