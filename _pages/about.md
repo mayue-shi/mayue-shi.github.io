@@ -12,7 +12,6 @@ profile:
     <p><strong>Mayue Shi</strong> PhD AFHEA MIEEE MIET</p>
     <p>Institute of Biomedical Engineering</p>
     <p>University of Oxford</p>
-    <p>Oxford, United Kingdom</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,4 +27,12 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Dr Mayue Shi is a `biomedical electronics scientist`. Currently, he is working as Postdoctoral Researcher in Digital Health at the Institute of Biomedical Engineering, University of Oxford. He is also an Honorary Researcher at John Radcliffe Hospital, part of NHS Oxford University Hospitals. Before this, he was a Research Associate at Imperial College London, working on wearable biomedical sensing and soft robots for healthcare. His current research interests encompass the fields of `digital health and wearable biomedical electronics`. He is committed to enhancing the accessibility and effectiveness of healthcare practices by bridging the gap between engineering and medicine.
+Dr Mayue Shi is a `biomedical electronics scientist`. Currently, he is working as Postdoctoral Researcher in Digital Health at the Institute of Biomedical Engineering, University of Oxford. He is also an Honorary Researcher at John Radcliffe Hospital, part of NHS Oxford University Hospitals. Before this, he was a Research Associate at Imperial College London, working on wearable biomedical sensing and soft robots for healthcare. His current research interests encompass the fields of `digital health and wearable biomedical electronics`. He is committed to enhancing the accessibility and effectiveness of healthcare practices by bridging the gap between engineering and medicine.<br>
+
+Contact<br>
+Email: mayue.shi(at)eng.ox.ac.uk<br>
+Web: [https://ibme.ox.ac.uk/person/mayue-shi/](https://ibme.ox.ac.uk/person/mayue-shi/)<br>
+Institute of Biomedical Engineering<br>
+Department of Engineering Science<br>
+University of Oxford<br>
+Oxford OX3 7DQ, UK<br>
