@@ -3,8 +3,6 @@
 <div align="center">
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmayue-shi.github.io&style=flat-square)](https://mayue-shi.github.io)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen?style=flat-square)](https://mayue-shi.github.io)
-[![al-folio](https://img.shields.io/badge/theme-al--folio-blue?style=flat-square)](https://github.com/alshedivat/al-folio)
 [![License](https://img.shields.io/github/license/mayue-shi/mayue-shi.github.io?style=flat-square)](LICENSE)
 
 **Personal academic website for Dr. Mayue Shi**  
@@ -30,10 +28,6 @@ This is the personal academic website of **Dr. Mayue Shi**, a biomedical electro
 Institute of Biomedical Engineering  
 University of Oxford  
 Oxford, United Kingdom
-
-## License
-
-This website is licensed under the [MIT License](LICENSE). The al-folio theme is also under MIT License.
 
 ## Acknowledgments
 
