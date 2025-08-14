@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-hidden-errors-in-generative-ai-assisted-programming-for-research",
+        },{id: "post-graduation-day-at-oxford",
+        
+          title: "Graduation Day at Oxford",
+        
+        description: "I’ve always felt very lucky to meet so many remarkable people, and humble, because I see myself as a survivor.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/kellogggrad/";
+          
+        },
+      },{id: "post-hidden-errors-in-generative-ai-assisted-programming-for-research",
         
           title: "Hidden Errors in Generative AI-Assisted Programming for Research",
         
