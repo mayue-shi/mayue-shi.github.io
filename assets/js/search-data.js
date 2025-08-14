@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-hidden-errors-in-generative-ai-assisted-programming-for-research",
+        
+          title: "Hidden Errors in Generative AI-Assisted Programming for Research",
+        
+        description: "A reflection on AI coding assistants and silent errors",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/codeerror/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
