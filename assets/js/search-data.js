@@ -83,8 +83,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20250705/";
-            },},{id: "news-happy-to-give-a-talk-at-the-institute-of-biomedical-engineering-at-oxford",
-          title: 'Happy to give a talk at the Institute of Biomedical Engineering at Oxford...',
+            },},{id: "news-dr-shi-gave-a-talk-at-the-institute-of-biomedical-engineering-at-oxford",
+          title: 'Dr Shi gave a talk at the Institute of Biomedical Engineering at Oxford...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20250801/";
