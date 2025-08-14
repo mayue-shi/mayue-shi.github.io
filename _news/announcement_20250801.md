@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy to visit the Royal Society Summer Science Exhibition 2025
+title: Happy to give a talk at the Institute of Biomedical Engineering at Oxford
 date: 2025-08-01 16:11:00-0400
 inline: false
 related_posts: false
