@@ -65,27 +65,76 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Outstanding Paper Award in Years 2021 and 2022",
+      "date": "2023",
+      "awarder": "Microsystems & Nanoengineering",
+      "url": "https://www.nature.com/articles/s41378-021-00323-5",
+      "summary": "Article: 'A comparative review of artificial muscles for microsystem applications', 1st author."
+    },
+    {
+      "title": "Outstanding Paper Award, PowerMEMS 2018",
+      "date": "2018",
+      "awarder": "PowerMEMS 2018",
+      "url": "https://www.transducer-research-foundation.org/archive/powermems2018/welcome/winners.html",
+      "summary": "Article: 'Energy harvesting piezoelectric wind speed sensor', 1st author. Oral presentation at the 18th International Conference on Micro and Nanotechnology for Power Generation and Energy Conversion Applications (PowerMEMS 2018). Daytona Beach, USA."
+    },
+    {
+      "title": "People's Choice Award - Imperial College PhD Summer Showcase Poster Competition",
+      "date": "2018",
+      "awarder": "Imperial College London",
+      "url": "",
+      "summary": "Public Voting 1st place out of 72 participants. Imperial College London, UK."
+    },
+    {
+      "title": "ACS Editors' Choice, American Chemical Society",
+      "date": "2016",
+      "awarder": "American Chemical Society",
+      "url": "http://pubs.acs.org/doi/abs/10.1021/acsnano.5b07074",
+      "summary": "Article: 'Self-Powered Analogue Smart Skin', ACS Nano, 1st author. Peking University, China."
+    },
+    {
+      "title": "Science Slam in International Student Conference on Micro Technology 2014",
+      "date": "2014",
+      "awarder": "Faculty of Engineering, University of Freiburg",
+      "url": "",
+      "summary": "2nd prize, oral presentation."
+    },
+    {
+      "title": "National Undergraduate Electronic Design Contest",
+      "date": "2011",
+      "awarder": "Higher Education Department of the Ministry of Education and Human Resources Department of the Ministry of Information Industry, China",
+      "url": "",
+      "summary": "2nd prize in national contest and 1st prize in Shaanxi Province contest. Xi'an Jiaotong University, P.R. China."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Generative AI for Teaching Bootcamp",
+      "date": "2025-06",
+      "issuer": "University of Oxford (In Person)",
+      "url": "",
+      "icon": "fa-solid fa-lightbulb"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Introduction to Statistics & Data Analysis in Public Health",
+      "date": "2025-03",
+      "issuer": "Imperial College London (Coursera)",
+      "url": "https://www.coursera.org/account/accomplishments/verify/CFB1P57W4ALK",
+      "icon": "fa-solid fa-lightbulb"
+    },
+    {
+      "name": "Scientific Entrepreneurship",
+      "date": "2025-01",
+      "issuer": "University of Oxford (In Person)",
+      "url": "",
+      "icon": "fa-solid fa-lightbulb"
+    },
+    {
+      "name": "Introduction to Healthcare",
+      "date": "2024-01",
+      "issuer": "Stanford University (Coursera)",
+      "url": "https://www.coursera.org/account/accomplishments/records/5RQRHQTXTGJD",
+      "icon": "fa-solid fa-lightbulb"
     }
   ],
   "publications": [
@@ -125,7 +174,7 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "Hold",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
