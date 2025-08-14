@@ -18,8 +18,7 @@ That led me into a debugging process. And after some time checking through the c
 
 And that’s when a broader concern arose in my mind: as AI coding assistants get smarter, the mistakes don’t disappear — they just get harder to spot. It’s like the difference between beginner and expert mistakes. A beginner might write code that doesn’t run at all, which is easy to catch. But an “expert,” like GPT-4 or Claude Sonnet 4, can produce code that runs perfectly — yet may still be subtly, logically wrong.
 
-Silent Errors in Research
------------------------
+## Silent Errors in Research
 
 In entertainment or casual projects, such a mistake might only result in a weird answer or image. But in scientific research, where conclusions depend on precise data interpretation, these silent errors can lead to serious consequences — flawed findings, invalid assumptions, or even incorrect publications.
 
@@ -27,19 +26,17 @@ The rise of “copilot” workflows, where large language models (LLM) help rese
 
 This experience definitely made me more careful. In research, AI can help us in speeding data analysis. Large language models like GPT are incredibly good at writing clean, runnable code. But we are still the final reviewers of our own analysis, and should carefully check every result. LLMs don’t understand the entire scientific context of our work yet.
 
-Practical Solutions
------------------
+## Practical Solutions
 
 I asked ChatGPT 4o itself for ways to avoid this kind of mistake in the future. It gave me some suggestions which looks reasonable for me, especially the second point:
 
-* Use logging to verify key steps in the data pipeline.
-* Use small test slices of data: Before running the full pipeline, test it on a controlled sample where you know the expected output.
-* Name your variables descriptively: GPT is more likely to generate semantically correct code if variable names clearly indicate their purpose.
-* Explicitly trace variable usage: In GPT-generated code, double-check that each variable is being used in the way you intend.
-I also briefly reviewed some papers related to this problem, and it’s clear that researchers are already exploring it. For example, some propose trustworthiness auditing or systems where different models cross-check each other’s code. All these approaches aim to ensure that “it runs” truly means “it’s correct.” But from what I’ve seen, this area is still in its early stages. These tools are promising, but none of them fully solve the problem — at least not yet.
+- Use logging to verify key steps in the data pipeline.
+- Use small test slices of data: Before running the full pipeline, test it on a controlled sample where you know the expected output.
+- Name your variables descriptively: GPT is more likely to generate semantically correct code if variable names clearly indicate their purpose.
+- Explicitly trace variable usage: In GPT-generated code, double-check that each variable is being used in the way you intend.
+  I also briefly reviewed some papers related to this problem, and it’s clear that researchers are already exploring it. For example, some propose trustworthiness auditing or systems where different models cross-check each other’s code. All these approaches aim to ensure that “it runs” truly means “it’s correct.” But from what I’ve seen, this area is still in its early stages. These tools are promising, but none of them fully solve the problem — at least not yet.
 
-Some Thought
------------------
+## Some Thought
 
 AI tools like GPT are amazing at speeding up repetitive coding tasks. They can generate entire pipelines, create visualizations, and even explain results within seconds. But efficiency doesn’t equal accuracy. Just because the code runs smoothly doesn’t mean the output is correct — or even meaningful.
 
