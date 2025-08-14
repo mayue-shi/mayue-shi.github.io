@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Hidden Errors in Generative AI-Assisted Programming for Research
-date: 2025-07-21 21:01:00
-description: A reflection
-tags: images
-# categories: sample-posts
+date: 2025-08-11 21:01:00
+description: A reflection on AI coding assistants and silent errors
+tags: machine learning
+categories: sample-posts
 thumbnail: assets/img/9.jpg
 ---
 
