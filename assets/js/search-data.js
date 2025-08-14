@@ -72,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_20250705/";
+            },},{id: "news-happy-to-visit-the-royal-society-summer-science-exhibition-2025",
+          title: 'Happy to visit the Royal Society Summer Science Exhibition 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_20250801/";
             },},{id: "projects-food-intake-monitoring",
           title: 'Food intake monitoring',
           description: "Sensor Fusion and machine learning for Reliable Food and Energy Intake Assessment",
