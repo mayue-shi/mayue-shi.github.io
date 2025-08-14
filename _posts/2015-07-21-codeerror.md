@@ -3,8 +3,8 @@ layout: post
 title: Hidden Errors in Generative AI-Assisted Programming for Research
 date: 2025-08-11 21:01:00
 description: A reflection on AI coding assistants and silent errors
-tags: machine learning
-categories: sample-posts
+tags: ["machine learning"]
+# categories: sample-posts
 thumbnail: assets/img/9.jpg
 ---
 
@@ -25,8 +25,6 @@ In entertainment or casual projects, such a mistake might only result in a weird
 The rise of “copilot” workflows, where large language models (LLM) help researcher write code faster may make this problem more significant. This is because LLMs don’t truly understand the data — at least, not yet. They don’t really know which variable should be used, they just pick one that looks possible. And the logic errors smarter models generated are harder to catch than syntax errors. Because there are no errors or any obvious signs, we might not realise anything went wrong until much later — if ever.
 
 This experience definitely made me more careful. In research, AI can help us in speeding data analysis. Large language models like GPT are incredibly good at writing clean, runnable code. But we are still the final reviewers of our own analysis, and should carefully check every result. LLMs don’t understand the entire scientific context of our work yet.
-
-## Practical Solutions
 
 I asked ChatGPT 4o itself for ways to avoid this kind of mistake in the future. It gave me some suggestions which looks reasonable for me, especially the second point:
 
