@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "Acadamic talks in universities and conferences.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a cv page.",
@@ -43,6 +50,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
+          },
+        },{id: "nav-services",
+          title: "services",
+          description: "Professional services, community contributions and memberships.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/services/";
           },
         },{id: "post-graduation-day-at-oxford",
         
