@@ -7,9 +7,7 @@ nav: true
 nav_order: 8
 ---
 
-## Editorial and Review Services
-
-### Peer Reviewer
+### Journal Peer Reviewer
 
 - **Nature Communications**
 - **Microsystems & Nanoengineering**
@@ -35,7 +33,7 @@ _Micromachines_ (ISSN 2072-666X) | 2021 – Present
 
 ---
 
-## Professional Leadership Roles
+### Professional Leadership Roles
 
 **Director, Department of Academic Affairs**  
 _Peking University Alumni Association in the United Kingdom (PKUAA-UK)_ | 2023 – Present
@@ -47,7 +45,7 @@ _Peking University Alumni Association in the United Kingdom (PKUAA-UK)_ | 2023 �
 
 ---
 
-## Fellowship and Membership
+### Fellowship and Membership
 
 **Associate Fellow of the Higher Education Academy (AFHEA)**  
 _Advanced HE, UK_ | 2024 – Present

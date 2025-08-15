@@ -34,7 +34,7 @@ I asked ChatGPT 4o itself for ways to avoid this kind of mistake in the future. 
 - Explicitly trace variable usage: In GPT-generated code, double-check that each variable is being used in the way you intend.
   I also briefly reviewed some papers related to this problem, and it’s clear that researchers are already exploring it. For example, some propose trustworthiness auditing or systems where different models cross-check each other’s code. All these approaches aim to ensure that “it runs” truly means “it’s correct.” But from what I’ve seen, this area is still in its early stages. These tools are promising, but none of them fully solve the problem — at least not yet.
 
-## Some Thought
+## Some Thoughts
 
 AI tools like GPT are amazing at speeding up repetitive coding tasks. They can generate entire pipelines, create visualizations, and even explain results within seconds. But efficiency doesn’t equal accuracy. Just because the code runs smoothly doesn’t mean the output is correct — or even meaningful.
 
