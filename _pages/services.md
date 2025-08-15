@@ -20,8 +20,13 @@ nav_order: 8
 - **Acta Biomaterialia**
 - **Measurement**
 - **Sensors**
-- **JMIR, JMIR mHealth and uHealth**
+- **Journal of Medical Internet Research (JMIR)**
+- **JMIR mHealth and uHealth**
 - **JMIR Aging**
+
+### Research Grant Reviewer
+
+- **The Leverhulme Trust, UK**
 
 ### Editorial Board
 
