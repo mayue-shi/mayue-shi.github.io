@@ -13,6 +13,8 @@ nav_order: 8
 - **Microsystems & Nanoengineering**
 - **Nano Energy**
 - **IEEE Journal of Microelectromechanical Systems**
+- **IEEE Transactions on Electron Devices**
+- **IEEE/ASME Transactions on Mechatronics**
 - **Sensors and Actuators A: Physical**
 - **Small**
 - **Acta Biomaterialia**
@@ -30,8 +32,6 @@ nav_order: 8
 
 **Topical Advisory Panel Member/Guest Editor**  
 _Micromachines_ (ISSN 2072-666X) | 2021 – Present
-
----
 
 ### Professional Leadership Roles
 
