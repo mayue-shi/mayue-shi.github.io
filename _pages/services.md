@@ -16,10 +16,10 @@ nav_order: 8
 - **IEEE Transactions on Electron Devices**
 - **IEEE/ASME Transactions on Mechatronics**
 - **Sensors and Actuators A: Physical**
-- **Small**
-- **Acta Biomaterialia**
 - **Measurement**
 - **Sensors**
+- **Small**
+- **Acta Biomaterialia**
 - **Journal of Medical Internet Research (JMIR)**
 - **JMIR mHealth and uHealth**
 - **JMIR Aging**
