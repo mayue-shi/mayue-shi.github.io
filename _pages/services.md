@@ -15,6 +15,7 @@ nav_order: 8
 - **IEEE Journal of Microelectromechanical Systems**
 - **IEEE Transactions on Electron Devices**
 - **IEEE/ASME Transactions on Mechatronics**
+- **IEEE Open Journal on Immersive Displays**
 - **Sensors and Actuators A: Physical**
 - **Measurement**
 - **Sensors**
